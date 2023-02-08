@@ -1,0 +1,16 @@
+
+.Navigation {
+    background-color: #578CA9;
+    width: 10%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.NavLinks {
+    margin: 5px 0;
+    color: rgb(237, 239, 246);
+    text-decoration: none;
+    cursor: pointer;
+}

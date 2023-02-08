@@ -1,0 +1,15 @@
+.ProfileContaner{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.Profile {
+    background-color: #114660;
+    width: 100%;
+    display: flex;
+}
+.ImgAvatar{
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+    display: block;
+}

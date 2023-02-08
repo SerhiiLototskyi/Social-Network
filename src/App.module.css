@@ -1,0 +1,16 @@
+.BodyContainer{
+  display: flex;
+  background-color: #114660;
+  height: 400vh;
+}
+.AppContainer{
+  width: 100%;
+  position:absolute;
+  font-family: 'Montserrat', sans-serif;
+}
+.LineProgress{
+  position:absolute
+}
+.headerContainer{
+  position:relative
+}
